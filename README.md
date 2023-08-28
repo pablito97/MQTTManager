@@ -1,11 +1,14 @@
 # MQTTManager
  MQTTManager is web mqtt aplication to create broker and read subscription and send publish
 
-![MQTTManager_1](https://github.com/pablito97/MQTTManager/assets/33673915/bf12ad5d-4eb8-412d-9c35-92ab9b1111b8)
+![MQTTManager_1](https://github.com/pablito97/MQTTManager/assets/33673915/ca79c454-4311-4646-9c26-28f734e575c2)
+
 Configuration panel
 
-![MQTTManager_2](https://github.com/pablito97/MQTTManager/assets/33673915/60dadac9-a968-4d7e-ba54-a7d9fb6e105d)
+![MQTTManager_2](https://github.com/pablito97/MQTTManager/assets/33673915/9d08ce8a-a5b9-4003-9437-f1b6f9001136)
+
 Publish/Subscribe
 
-![MQTTManager_3](https://github.com/pablito97/MQTTManager/assets/33673915/de4485be-d6c4-4797-96d6-d4111e0e4899)
+![MQTTManager_3](https://github.com/pablito97/MQTTManager/assets/33673915/bcb3fb10-da50-4c36-b0a2-a66dda8f195a)
+
 Client manager
